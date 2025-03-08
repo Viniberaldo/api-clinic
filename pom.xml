@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.vinidev</groupId>
-	<artifactId>medical-clinic</artifactId>
+	<artifactId>medicalClinic</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>medical-clinic</name>
+	<name>medicalClinic</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>

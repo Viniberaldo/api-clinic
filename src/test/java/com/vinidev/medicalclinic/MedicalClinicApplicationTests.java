@@ -1,4 +1,4 @@
-package com.vinidev.medical_clinic;
+package com.vinidev.medicalclinic;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
